@@ -6,7 +6,7 @@
 <h3> <p align="center"> Quarter Finals Simulation  </p> </h3>
 <h3> <p align="center"> ================= </p> </h3>
 
->> <h3> Desc </h3>
+>> <h3> Image </h3>
 
 ![delta](img/img.png)
 
